@@ -10,8 +10,4 @@ This project analyzes ecommerce customer behavior and visualizes insights like:
 - Pandas, Plotly, Dash
 - GitHub
 
-## How to Run
-```bash
-pip install -r requirements.txt
-cd dashboard
-python app.py
+
